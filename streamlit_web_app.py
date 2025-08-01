@@ -19,27 +19,32 @@ json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
 # Initialize dataframe
 df_choices = None
 
-# Create columns from first matching JSON
-for json_file in json_files:
-    with open(os.path.join(folder_jsons, json_file), 'r') as f:
-        data = json.load(f)
-        if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
-            columns = [el['question_text'] for el in data['voluntary_information']['choices']]
-            df_choices = pd.DataFrame(columns=columns)
-            break
+# # Create columns from first matching JSON
+# for json_file in json_files:
+#     with open(os.path.join(folder_jsons, json_file), 'r') as f:
+#         data = json.load(f)
+#         if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
+#             columns = [el['question_text'] for el in data['voluntary_information']['choices']]
+#             df_choices = pd.DataFrame(columns=columns)
+#             break
 
-# Populate dataframe
-if df_choices is not None:
-    for json_file in json_files:
-        with open(os.path.join(folder_jsons, json_file), 'r') as f:
-            data = json.load(f)
-            if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
-                row_id = len(df_choices)
-                for el in data['voluntary_information']['choices']:
-                    df_choices.at[row_id, el['question_text']] = el['answer_text']
-else:
-    st.error("No valid survey data found in the JSON files.")
-    st.stop()
+# # Populate dataframe
+# if df_choices is not None:
+#     for json_file in json_files:
+#         with open(os.path.join(folder_jsons, json_file), 'r') as f:
+#             data = json.load(f)
+#             if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
+#                 row_id = len(df_choices)
+#                 for el in data['voluntary_information']['choices']:
+#                     df_choices.at[row_id, el['question_text']] = el['answer_text']
+# else:
+#     st.error("No valid survey data found in the JSON files.")
+#     st.stop()
+    
+
+df_choices = pd.read_csv('survey_results.csv', index_col=0)
+
+
 
 # Show histograms
 st.subheader("Histograms")
