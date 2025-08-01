@@ -1,0 +1,234 @@
+# Ignore all directories (but track files in root)
+*/
+
+# AWS Credentials and sensitive files
+*.gpg
+.aws/
+credentials*
+config
+*.pem
+*.key
+credentials.json
+
+# Data directories and large files
+downloads/
+data/
+DATA/
+output/
+results/
+temp/
+tmp/
+cache/
+
+# Video and media files
+*.webm
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.m4v
+*.3gp
+*.wav
+*.mp3
+*.aac
+*.flac
+
+# Image files (optional - uncomment if needed)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
+# *.tiff
+# *.svg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Configuration files (uncomment if you want to ignore them)
+# config.ini
+# config.json
+# settings.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node.js (if you have any frontend components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# MATLAB
+*.asv
+*.m~
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Ignore everything in specific folders but keep the folders themselves
+# (Use this pattern if you want to track empty folders)
+# downloads/*
+# !downloads/.gitkeep
+# data/*
+# !data/.gitkeep
+
+# Keep specific files (examples)
+!README.md
+!*.py
+!*.ipynb
+!*.md
+!*.txt
+!*.yml
+!*.yaml
+!*.json
+!requirements.txt
+!setup_environment.sh
+!activate_env.sh
