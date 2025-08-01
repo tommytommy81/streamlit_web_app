@@ -14,7 +14,7 @@ folder_jsons = 'Downloads_S3'
 st.title("📊 Survey Results: Histograms for Each Question")
 
 # Load data from local JSON files
-json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
+# json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
 
 # Initialize dataframe
 df_choices = None
