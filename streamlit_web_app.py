@@ -8,18 +8,20 @@ import matplotlib.pyplot as plt
 import json
 import os
 
+folder_jsons = 'Downloads_S3'
+
 # Set the title
 st.title("📊 Survey Results: Histograms for Each Question")
 
 # Load data from local JSON files
-json_files = [f for f in os.listdir('downloads/Downloads_S3/') if f.endswith('.json')]
+json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
 
 # Initialize dataframe
 df_choices = None
 
 # Create columns from first matching JSON
 for json_file in json_files:
-    with open(os.path.join('downloads/Downloads_S3', json_file), 'r') as f:
+    with open(os.path.join(folder_jsons, json_file), 'r') as f:
         data = json.load(f)
         if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
             columns = [el['question_text'] for el in data['voluntary_information']['choices']]
@@ -29,7 +31,7 @@ for json_file in json_files:
 # Populate dataframe
 if df_choices is not None:
     for json_file in json_files:
-        with open(os.path.join('downloads/Downloads_S3', json_file), 'r') as f:
+        with open(os.path.join(folder_jsons, json_file), 'r') as f:
             data = json.load(f)
             if data.get('voluntary_information') and data['voluntary_information'].get('choices'):
                 row_id = len(df_choices)
