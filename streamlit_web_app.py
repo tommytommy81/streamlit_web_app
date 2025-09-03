@@ -13,15 +13,17 @@ import textwrap
 # Set the title
 st.set_page_config(layout="wide")  # ← This expands your app to full width
 
+# Initialize dataframe
+df_choices = pd.read_csv('survey_results.csv', index_col=0)
+
 # Set the title
-st.title("""📊 Data Monitor: 
+st.title(f"""📊 Data Monitor (N = {len(df_choices)}): 
 Who has completed the assessment? 
 Histograms for Each Question""")
 # Load data from local JSON files
 # json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
 
-# Initialize dataframe
-df_choices = pd.read_csv('survey_results.csv', index_col=0)
+
 
 st.subheader("Histograms")
 
