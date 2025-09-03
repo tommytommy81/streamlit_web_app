@@ -15,7 +15,7 @@ st.set_page_config(layout="wide")  # ← This expands your app to full width
 
 # Initialize dataframe
 df_choices = pd.read_csv('survey_results.csv', index_col=0)
-N_vouchers = pd.read_csv('N_vouchers.csv', index_col=0)['N_vouchers']
+N_vouchers = pd.read_csv('N_vouchers.csv', index_col=0).iloc[0, 0]
 
 # Set the title
 st.title(f"""📊 Data Monitor (N = {N_vouchers}): 
