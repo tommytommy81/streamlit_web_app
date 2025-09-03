@@ -15,10 +15,12 @@ st.set_page_config(layout="wide")  # ← This expands your app to full width
 
 # Initialize dataframe
 df_choices = pd.read_csv('survey_results.csv', index_col=0)
+N_vouchers = pd.read_csv('N_vouchers.csv', index_col=0)['N_vouchers'][0]
 
 # Set the title
-st.title(f"""📊 Data Monitor (N = {len(df_choices)}): 
-Who has completed the assessment? 
+st.title(f"""📊 Data Monitor (N = {N_vouchers}): 
+Who has completed the assessment? ({len(df_choices)}/{N_vouchers})
+
 Histograms for Each Question""")
 # Load data from local JSON files
 # json_files = [f for f in os.listdir(folder_jsons) if f.endswith('.json')]
