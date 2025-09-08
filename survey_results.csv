@@ -35,6 +35,7 @@ How many employees directly report to you?,What is your hierarchical level withi
 1-5,Executive management,Administrative,3-5,Male,56-65,10-49,Suburban / agglomeration,United States,Yes,Government,High,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
 0,Senior staff,Information Technology,5-10,Female,36-45,>1000,Suburban / agglomeration,United States,Yes,Energy,Medium,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
 0,Entry level staff,Consulting,1-3,Male,18-25,50-249,Urban,Hungary,Yes,IT,High,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
+1-5,Senior staff,Real Estate,3-5,Female,46-55,1-9,Urban,United States,Yes,Construction,Medium,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
 0,Entry level staff,Community and Social Services,0-1,Female,26-35,10-49,Urban,Switzerland,No,Other,Medium,Average,3,3,4,Average,Average,Low (once a week),Average,Average,High,High,2,4,5,5,5,4,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
 5-10,Middle management,Community and Social Services,5-10,Male,36-45,>1000,Suburban / agglomeration,United States,Yes,Health Care,Medium,,,,,,,,,,,,,,,,,,nan,nan,nan,nan,n,n,n,nan,nan,nan,n,n,nan,nan,n,nan,nan,nan,n,nan,nan,nan,na
 1-5,Intermediate level staff,Military and Protective Services,1-3,Male,18-25,>1000,Suburban / agglomeration,Switzerland,No,Government,Medium,Average,1,1,3,None,Full,High (4-6 days a week),High,High,Very High,No answer,7,7,7,4,1,7,5-10,3-5,1-3,Yes,0,0,0,10-20,1-3,3-5,0,0,1-3,"riskier, high-return products",0,1-3,1-3,1-3,0,20%,3-5,1-3,No
@@ -89,6 +90,7 @@ No answer,No answer,No answer,>10,Female,46-55,>1000,Suburban / agglomeration,No
 0,Intermediate level staff,Marketing,0-1,Female,26-35,250-1000,Rural,United States,No,Health Care,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Intermediate level staff,Program and Project Management,3-5,Female,56-65,50-249,Urban,United States,Yes,IT,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Executive management,Consulting,>10,Female,46-55,1-9,Urban,Singapore,No,Multiple,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+>20,Middle management,Education,1-3,Female,36-45,250-1000,Urban,Netherlands,No,Education,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Intermediate level staff,Education,0-1,Male,26-35,250-1000,Suburban / agglomeration,United States,No,Education,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Executive management,Sales,0-1,Male,26-35,10-49,Rural,United Kingdom,No,Health Care,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Program and Project Management,3-5,Female,46-55,>1000,Urban,Switzerland,No,Education,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -102,6 +104,7 @@ No answer,No answer,No answer,>10,Female,46-55,>1000,Suburban / agglomeration,No
 10-20,Executive management,Human Resources,>10,Male,56-65,>1000,Suburban / agglomeration,United States,No,Education,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Middle management,Human Resources,>10,Male,46-55,>1000,Suburban / agglomeration,United States,Yes,Government,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Entry level staff,Community and Social Services,0-1,Female,26-35,10-49,Urban,Switzerland,No,Other,Medium,Average,3,3,4,Average,Average,Low (once a week),Average,Average,High,High,2,4,5,5,5,4,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Entry level staff,Administrative,3-5,Female,26-35,50-249,Urban,Switzerland,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Consulting,>10,Female,56-65,>1000,Suburban / agglomeration,United Kingdom,No,No answer,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,First-level management,Education,>10,Female,46-55,250-1000,Rural,United States,No,Education,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 >20,Senior staff,Administrative,>10,Male,46-55,>1000,Rural,United States,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -192,6 +195,7 @@ No answer,Intermediate level staff,Operations,3-5,Male,36-45,250-1000,Suburban /
 0,Intermediate level staff,Engineering,5-10,Female,26-35,>1000,Urban,United States,No,IT,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,No answer,No answer,3-5,Male,26-35,1-9,Urban,United States,No,Marketing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Senior staff,Business Development,>10,Male,>65,1-9,Suburban / agglomeration,United States,No,Construction,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5-10,Middle management,Information Technology,1-3,Female,46-55,>1000,Urban,Switzerland,No,Finance,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10-20,Middle management,Community and Social Services,3-5,Male,26-35,10-49,Urban,United States,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,Consulting,1-3,Male,36-45,10-49,Rural,Switzerland,No,Pharma,Medium,High,1,3,5,Average,High,High (4-6 days a week),High,High,Average,High,5,4,3,5,2,7,,,,,,,,,,,,,,,,,,,,,,,
 0,Intermediate level staff,Education,1-3,Male,26-35,10-49,Urban,United States,Yes,Education,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -260,10 +264,12 @@ No answer,No answer,No answer,>10,Female,46-55,No answer,Urban,United States,No 
 0,Senior staff,Marketing,3-5,Female,46-55,10-49,Suburban / agglomeration,United States,No,Marketing,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Consulting,0-1,Male,46-55,1-9,Urban,Switzerland,No,IT,Medium,Average,4,3,4,Average,Average,High (4-6 days a week),Average,Average,Average,No answer,3,3,No answer,No answer,3,4,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Senior staff,Program and Project Management,3-5,Female,26-35,1-9,Suburban / agglomeration,United States,Yes,Multiple,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Senior staff,Human Resources,3-5,Female,36-45,1-9,Rural,Switzerland,No,Multiple,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Middle management,Accounting,1-3,Male,46-55,>1000,Suburban / agglomeration,United States,Yes,Hospitality,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Senior staff,Operations,3-5,Male,46-55,50-249,Rural,France,No,Manufacturing,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Intermediate level staff,Media and Communication,3-5,Female,26-35,1-9,Suburban / agglomeration,France,No,Media,Medium,None,4,4,2,None,Low,High (4-6 days a week),Average,Average,Average,High,6,5,3,5,1,5,,,,,,,,,,,,,,,,,,,,,,,
 1-5,First-level management,Consulting,3-5,Female,26-35,50-249,Suburban / agglomeration,United States,No,Multiple,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Middle management,Arts and Design,3-5,Female,46-55,>1000,Suburban / agglomeration,United States,No,Marketing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 No answer,Senior staff,Research,>10,Female,No answer,>1000,No answer,No answer,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 10-20,Executive management,Human Resources,1-3,Male,56-65,>1000,Suburban / agglomeration,Switzerland,No,Manufacturing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,No answer,Media and Communication,No answer,Female,36-45,No answer,Rural,United States,Yes,No answer,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -378,6 +384,7 @@ No answer,No answer,Business Development,5-10,Male,>65,No answer,Urban,Iran,No,M
 5-10,Executive management,Real Estate,3-5,Male,26-35,10-49,Suburban / agglomeration,United States,No,Multiple,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,Operations,5-10,Male,26-35,250-1000,Urban,Switzerland,No,IT,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Community and Social Services,0-1,Diverse,26-35,1-9,Suburban / agglomeration,United States,No,Health Care,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No answer,First-level management,Information Technology,1-3,Female,36-45,>1000,Suburban / agglomeration,Switzerland,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Entrepreneurship,1-3,Female,46-55,1-9,Urban,United States,Yes,Hospitality,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,First-level management,Administrative,>10,Female,36-45,>1000,Rural,United States,Yes,Government,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Entry level staff,Education,0-1,Female,26-35,10-49,Suburban / agglomeration,United States,Yes,Education,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -471,6 +478,7 @@ No answer,Self employed / contractor,Consulting,>10,Female,46-55,No answer,Urban
 0,Senior staff,Community and Social Services,1-3,Female,46-55,50-249,Suburban / agglomeration,United States,No,Health Care,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Human Resources,>10,Female,56-65,1-9,Urban,United States,No,Pharma,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Media and Communication,3-5,Female,26-35,10-49,Suburban / agglomeration,United States,Yes,Marketing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Intermediate level staff,Operations,1-3,Female,56-65,1-9,Rural,Switzerland,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,First-level management,Research,1-3,Male,36-45,50-249,Rural,United States,No,Multiple,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Middle management,Community and Social Services,5-10,Female,36-45,>1000,Suburban / agglomeration,United States,Yes,Education,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Consulting,0-1,Female,46-55,1-9,Suburban / agglomeration,Switzerland,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
