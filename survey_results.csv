@@ -49,6 +49,7 @@ How many employees directly report to you?,What is your hierarchical level withi
 10-20,Executive management,Product Management,3-5,Male,36-45,250-1000,Rural,France,No,Manufacturing,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Human Resources,0-1,Female,46-55,1-9,Urban,United States,No,No answer,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,First-level management,Community and Social Services,5-10,Female,56-65,250-1000,Urban,Switzerland,No,Education,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5-10,First-level management,Product Management,5-10,Male,36-45,>1000,Rural,Switzerland,No,Finance,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Executive management,Administrative,3-5,Male,56-65,10-49,Suburban / agglomeration,United States,Yes,Government,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Self employed / contractor,Healthcare Services,1-3,Female,36-45,10-49,Urban,Brazil,Yes,Health Care,Medium,,,,,,,,,,,,5,6,5,3,5,6,1-3,0,5-10,No,1-3,0,0,0,5-10,0,1-3,0,>20,"riskier, high-return products",1-3,5-10,0,1-3,>20,40%,1-3,0,No,Satisfied,Very,Somewhat,Very,"Yes, occasionally",Somewhat,Probably yes,Meets expectations,Yes,Low,Very
 0,Senior staff,Information Technology,5-10,Female,36-45,>1000,Suburban / agglomeration,United States,Yes,Energy,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -167,6 +168,7 @@ No answer,Intermediate level staff,Arts and Design,1-3,Female,No answer,No answe
 0,No answer,No answer,No answer,Male,>65,No answer,Rural,United States,No,No answer,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Middle management,Business Development,0-1,Female,26-35,10-49,Urban,United Kingdom,No,Health Care,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Entrepreneurship,0-1,Female,36-45,1-9,Suburban / agglomeration,United States,Yes,IT,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Senior staff,Research,1-3,Female,26-35,10-49,Suburban / agglomeration,Switzerland,No,Health Care,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Executive management,Human Resources,3-5,Female,46-55,>1000,Suburban / agglomeration,United States,Yes,Manufacturing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,Administrative,0-1,Male,46-55,>1000,Suburban / agglomeration,United States,No,Education,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 No answer,Entry level staff,Legal,1-3,Female,No answer,No answer,Suburban / agglomeration,Switzerland,No,No answer,Medium,High,4,1,5,Average,High,Low (once a week),High,High,High,High,5,6,5,6,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
