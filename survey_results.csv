@@ -10,6 +10,7 @@ How many employees directly report to you?,What is your hierarchical level withi
 1-5,Senior staff,Business Development,>10,Male,56-65,50-249,Suburban / agglomeration,United States,No,Education,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Intermediate level staff,Business Development,3-5,Female,26-35,>1000,Urban,Germany,No,Finance,Medium,,,,,,,,,,,,6,5,6,3,3,6,1-3,0,1-3,No,0,1-3,1-3,5-10,5-10,1-3,0,1-3,1-3,"secure, low-return financial products",0,1-3,3-5,1-3,3-5,60%,1-3,1-3,Yes,Satisfied,Very,Somewhat,Very,No,Somewhat,Definitely yes,Exceeds expectations,Yes,High,Extremely
 1-5,First-level management,Legal,1-3,Female,36-45,>1000,Urban,Spain,No,Agriculture,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Self employed / contractor,Business Development,3-5,Female,26-35,1-9,Urban,Switzerland,Yes,Pharma / Life Sciences,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,No answer,Research,1-3,Female,26-35,>1000,Urban,Switzerland,Yes,Other,High,Average,6,7,7,Average,Low,Average (2-3 days a week),Low,Low,High,High,5,3,5,4,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Intermediate level staff,Administrative,3-5,Female,46-55,10-49,Suburban / agglomeration,Germany,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Marketing,1-3,Female,36-45,>1000,Suburban / agglomeration,United States,No,Telecommunication,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -189,6 +190,7 @@ No answer,Entry level staff,Legal,1-3,Female,No answer,No answer,Suburban / aggl
 1-5,Intermediate level staff,Consulting,1-3,Female,26-35,>1000,Urban,Germany,No,Finance,High,,,,,,,,,,,,6,4,4,4,6,5,1-3,0,1-3,No,0,0,1-3,3-5,3-5,3-5,0,1-3,1-3,"secure, low-return financial products",1-3,1-3,5-10,1-3,3-5,60%,3-5,>20,No,Satisfied,Somewhat,Very,Very,"Yes, occasionally",Somewhat,Probably yes,Exceeds expectations,Yes,High,Very
 >20,Intermediate level staff,Accounting,3-5,Male,26-35,50-249,Urban,Portugal,Yes,Finance,High,,,,,,,,,,,,3,4,3,5,6,5,No answer,>20,10-20,Yes,1-3,3-5,0,3-5,5-10,5-10,0,0,0,No answer,1-3,0,3-5,0,No answer,40%,3-5,1-3,Yes,Satisfied,Somewhat,Somewhat,Not at all,No,Slightly,Definitely not,Below expectations,Yes,Very High,Not at all
 0,Self employed / contractor,Arts and Design,>10,Female,46-55,1-9,Rural,United States,No,Entertainment,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Senior staff,Purchasing,0-1,Female,26-35,250-1000,Suburban / agglomeration,Switzerland,No,IT / Software / Tech,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 No answer,No answer,No answer,No answer,Female,18-25,No answer,No answer,Switzerland,No,No answer,Low,No answer,1,1,1,No answer,No answer,Very Low (never),Average,No answer,No answer,No answer,No answer,No answer,No answer,7,1,No answer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Senior staff,No answer,3-5,Male,46-55,>1000,Suburban / agglomeration,Switzerland,No,Health Care,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,No answer,>10,Female,56-65,10-49,Urban,United States,No,Multiple,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -251,6 +253,7 @@ No answer,Intermediate level staff,Operations,3-5,Male,36-45,250-1000,Suburban /
 5-10,Executive management,Arts and Design,>10,Female,56-65,10-49,Urban,United States,No,Marketing,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 >20,First-level management,Education,>10,Male,36-45,>1000,Suburban / agglomeration,Japan,No,Education,Medium,,,,,,,,,,,,6,6,5,4,6,7,0,0,0,No,1-3,0,1-3,3-5,3-5,1-3,0,3-5,1-3,"secure, low-return financial products",5-10,0,1-3,1-3,1-3,70%,1-3,0,Yes,Satisfied,Very,Somewhat,Somewhat,"Yes, occasionally",Very,Probably yes,Meets expectations,Yes,Average,Somewhat
 1-5,Middle management,Business Development,>10,Male,>65,50-249,Rural,United States,No,Government,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Erste Managementebene,Finanzen,>10,Weiblich,36-45,>1000,Ländlich,Schweiz,Nein,Finanzen,Niedrig,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Intermediate level staff,Information Technology,1-3,Female,26-35,>1000,Suburban / agglomeration,United States,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Human Resources,0-1,Female,36-45,10-49,Suburban / agglomeration,United States,Yes,Government,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 >20,Middle management,Operations,1-3,Female,46-55,>1000,Rural,United Kingdom,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -426,6 +429,7 @@ No answer,No answer,No answer,No answer,No answer,No answer,No answer,No answer,
 5-10,Executive management,Consulting,1-3,Male,36-45,>1000,Urban,United States,No,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Entrepreneurship,5-10,Female,56-65,1-9,Suburban / agglomeration,United States,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Senior staff,Healthcare Services,1-3,Male,36-45,10-49,Rural,United States,Yes,Health Care,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,Intermediate level staff,Information Technology,1-3,Male,36-45,250-1000,Suburban / agglomeration,Switzerland,No,IT / Software / Tech,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Middle management,No answer,1-3,Female,56-65,50-249,Urban,United States,Yes,Health Care,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,Senior staff,Human Resources,3-5,Female,26-35,50-249,Urban,Switzerland,No,Pharma,Low,Very low,2,2,2,Very low,Very High,Average (2-3 days a week),Low,High,Average,Average,5,6,7,7,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Information Technology,>10,Male,36-45,250-1000,Urban,Czechia,No,Health Care,Low,,,,,,,,,,,,5,6,2,7,1,6,0,0,0,No,0,0,0,1-3,1-3,0,0,0,0,"secure, low-return financial products",0,0,1-3,0,0,20%,0,0,Yes,Satisfied,Somewhat,Very,Very,No,Slightly,Not sure,Meets expectations,No,Average,Somewhat
@@ -458,6 +462,7 @@ No answer,No answer,Business Development,5-10,Male,>65,No answer,Urban,Iran,No,M
 1-5,Intermediate level staff,Administrative,1-3,Male,36-45,250-1000,Urban,Switzerland,No,Finance,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Satisfied,Very,Somewhat,Somewhat,"Yes, occasionally",Very,Not sure,Meets expectations,No,High,Very
 1-5,Executive management,Information Technology,0-1,Male,46-55,1-9,Urban,United States,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,Marketing,>10,Female,36-45,10-49,Suburban / agglomeration,United States,No,Health Care,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1-5,Gestion de premier niveau,Opérations,0-1,Homme,26-35,50-249,Rural,Suisse,Non,Fabrication,Élevé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Consulting,0-1,Female,36-45,1-9,Suburban / agglomeration,United States,Yes,Finance,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 >20,Executive management,No answer,>10,Male,>65,50-249,Suburban / agglomeration,United States,No,Manufacturing,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Consulting,>10,Female,56-65,1-9,Suburban / agglomeration,United States,No,Multiple,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -792,6 +797,7 @@ No answer,No answer,No answer,No answer,Female,36-45,250-1000,Suburban / agglome
 >20,Executive management,Legal,0-1,Male,46-55,>1000,Urban,Switzerland,No,Agriculture,High,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Information Technology,>10,Male,56-65,>1000,Suburban / agglomeration,United States,No,Finance,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Senior staff,Program and Project Management,1-3,Female,36-45,>1000,Suburban / agglomeration,United States,No,Other,Low,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5-10,Middle management,Business Development,3-5,Male,36-45,250-1000,Urban,Switzerland,No,IT / Software / Tech,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 0,Self employed / contractor,Education,No answer,Female,36-45,No answer,Urban,United States,No,Education,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5-10,Executive management,Consulting,1-3,Male,56-65,10-49,Urban,Switzerland,No,Education,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1-5,First-level management,Administrative,5-10,Female,56-65,>1000,Suburban / agglomeration,United States,Yes,Other,Medium,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
